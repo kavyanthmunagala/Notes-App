@@ -6,7 +6,6 @@ A simple full-stack notes manager built with MongoDB, Express, React (Vite), and
 
 - Name: Kavyanth Munagala
 - Roll Number: 2026204016
-- GitHub Profile: https://github.com/kavyanthmunagala
 - GitHub Repository: https://github.com/kavyanthmunagala/Notes-App
 
 ## Tech Stack
